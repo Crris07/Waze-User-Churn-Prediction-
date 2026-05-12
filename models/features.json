@@ -12,6 +12,6 @@
     "km_per_drive",
     "device_iPhone"
   ],
-  "device_col": "device_iPhone",
-  "threshold": 0.37732151954078047
+  "threshold": 0.37732151954078047,
+  "target_positive_class": "churned"
 }

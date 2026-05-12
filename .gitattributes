@@ -1,0 +1,6 @@
+*.ipynb linguist-vendored
+*.csv linguist-generated
+*.joblib linguist-generated
+*.pyc linguist-generated
+.ipynb_checkpoints/** linguist-generated
+__pycache__/** linguist-generated
